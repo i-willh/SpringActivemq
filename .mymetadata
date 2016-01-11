@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="SpringActivemq"
+  id="myeclipse.1396251832578"
+  context-root="/SpringActivemq"
+  j2ee-spec="6.0"
+  archive="SpringActivemq.war">
+  <attributes>
+    <attribute name="webrootdir" value="src/main/webapp" />
+  </attributes>
+</project-module>
+
